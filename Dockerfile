@@ -1,4 +1,4 @@
-FROM hub.netbox.ru:5000/utils/pdns:latest
+FROM shurshun/pdns
 
 LABEL maintainer "4lifenet@gmail.com"
 
